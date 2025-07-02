@@ -116,3 +116,10 @@ body {
   background-color: #3949ab;
   transition: 0.5s;
 }
+
+@media (max-width: 768px) {
+  .form-container{
+    width: 90%;
+    padding: 1rem;
+  }
+}
